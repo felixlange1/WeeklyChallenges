@@ -4,9 +4,10 @@
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet01Tests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c5c5702_002D61a5_002D48a9_002D8f92_002D720a96b74371/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetGreeting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c5c5702_002D61a5_002D48a9_002D8f92_002D720a96b74371/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetGreeting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet01Tests.GetGreeting&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3dabb09d_002Daf4b_002D4880_002Dac8f_002Dea343ca5f41c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
@@ -24,7 +25,7 @@
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.CharacterIsALetter&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fbdf218_002Dc7e0_002D4310_002Da1a0_002D008fa1dc9cec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CharacterIsALetter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fbdf218_002Dc7e0_002D4310_002Da1a0_002D008fa1dc9cec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CharacterIsALetter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.CharacterIsALetter&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.CharacterIsNotALetter&lt;/TestId&gt;
@@ -37,6 +38,7 @@
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.SumEvens&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.IsSumOdd&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet02Tests.CountOfPositiveOddsBelowNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet03Tests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ff9f0d8_002D55f6_002D4f76_002Db834_002D85711c30e222/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Subtract #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
